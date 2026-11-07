@@ -1,52 +1,42 @@
 # Twitch TV by Oprawa
 
-**Twitch на большом экране.** Листай каналы крестовиной пульта, открывай эфир кнопкой OK и читай чат прямо на телевизоре.
+Twitch для Android TV: эфиры, подписки, записи и клипы. Управление с пульта.
 
-**[⬇ Скачать APK](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)** · **[▶ Смотреть демо](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)**
+**[Скачать APK](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)** · **[30 секунд в приложении](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-demo.mp4)**
 
-[![Главный экран Twitch TV by Oprawa с авторскими карточками](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-cover-skuf.png)](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)
+[![Twitch TV by Oprawa — TyutcheV_V](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-cover-tyutchev.png)](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-demo.mp4)
 
-## Что можно делать с пульта
+## Каналы и подписки
 
-### 📺 Листать эфиры
+Рекомендации, каналы в эфире и подписки — на главном экране. Крестовина перемещает фокус, OK открывает выбранный эфир. В плеере видны название трансляции и число зрителей.
 
-Смотри, кто из твоих подписок в эфире, или ищи что-то новое в рекомендациях. Предпросмотр помогает выбрать канал, а качество видео можно сменить прямо в плеере.
+![Навигация по каналам с пульта](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-channels.gif)
 
-### 💬 Читать чат во время эфира
+## Кинотеатр
 
-В режиме кинотеатра чат занимает отдельную колонку справа, а видео целиком остаётся слева. Если места на экране хочется больше, оставь чат поверх эфира и подбери угол, размер текста и прозрачность.
+Видео целиком остаётся слева, чат занимает отдельную колонку справа. Режим переключается кнопкой «Кинотеатр» во время трансляции.
 
-### ⏪ Смотреть записи и клипы
+![Переключение кинотеатра во время эфира](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-theater.gif)
 
-Вернись к нужному моменту в записи по шкале перемотки или переключись на соседний клип с пульта.
+## Чат поверх эфира
 
-### 🎨 Оформить приложение под себя
+Выбери угол, размер текста и прозрачность чата прямо в плеере. Удержание OK на кнопке «Чат» открывает его параметры; трансляция продолжает идти.
 
-Выбери значок и баннер для главного экрана Android TV. Можно оставить в меню любимые разделы и менять их порядок. Язык меню и языки трансляций настраиваются отдельно.
+![Перемещение чата и изменение прозрачности в плеере](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-chat.gif)
 
-## Как это выглядит
-
-[![Короткий тизер с управлением пультом, чатом и оформлением Android TV](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-teaser.gif)](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)
-
-В демо есть и «Под холодное Жигулевское», и «Развалил кабины под сухарики». Это авторские карточки Oprawa с вымышленными каналами. Управление записано на эмуляторе Android TV. [Полный ролик и все шесть карточек](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/tag/v1.0.2).
+Также доступны записи с перемоткой и клипы. Качество видео выбирается в плеере.
 
 <details>
-<summary>Что в минутном ролике</summary>
+<summary>О записи и материалах</summary>
 
-| Время | Что увидишь |
-| --- | --- |
-| 0:03 | Как фокус движется по карточкам с пульта |
-| 0:09 | Подписки и предпросмотр канала |
-| 0:15 | Панель эфира и выбор качества |
-| 0:20 | Чат поверх видео и в режиме кинотеатра |
-| 0:27 | Перемотка записи и переключение клипов |
-| 0:39 | Шесть авторских анимаций |
-| 0:45 | Настройка чата, значка и баннера |
+Записи сделаны в работающем приложении 1.0.2 на эмуляторе Android TV с управлением D-pad. Исходное разрешение — 1280×720. Это демонстрация на эмуляторе, не съёмка физического телевизора. Обложка — отдельная иллюстрация.
+
+Музыка в MP4: [Whrghah!step — Of Far Different Nature](https://opengameart.org/content/whrghahstep), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Использован фрагмент, изменена громкость. В кадре — публичный эфир [TyutcheV_V](https://www.twitch.tv/tyutchev_v), реальные подписки и рекомендации Twitch. Фрагменты сокращены; добавлены приближения, подсветки и переходы. Экраны выбора угла и прозрачности показаны с ускорением 1,5×.
 
 </details>
 
-## Кто сделал приложение
+## Авторы
 
-ТВ-версию и авторские карточки делает **Oprawa**. В основе проекта — **SmartTwitchTV**. **Codex** помог с демонстрацией, проверкой управления с пульта и оформлением GitHub.
+**Oprawa** — ТВ-версия и оформление. Основа — [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV). **Codex от OpenAI** — помощь в разработке, проверке и подготовке демонстрации.
 
-[Разработчики и участники](CREDITS.md) · [Лицензия GPL-3.0](LICENSE)
+[Разработчики и участники](CREDITS.md) · [GPL-3.0](LICENSE) · [Релизы](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases)
