@@ -2,7 +2,7 @@
 
 Twitch для Android TV: эфиры, подписки, записи и клипы. Управление с пульта.
 
-**[Скачать APK](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)** · **[30 секунд в приложении](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-demo.mp4)**
+# [⬇️ Скачать APK](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)
 
 [![Twitch TV by Oprawa — TyutcheV_V](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-cover-tyutchev.png)](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-live-demo.mp4)
 
