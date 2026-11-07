@@ -2,7 +2,7 @@
 
 **Twitch на большом экране.** Листай каналы крестовиной пульта, открывай эфир кнопкой OK и читай чат прямо на телевизоре.
 
-**[⬇ Скачать APK для Android TV](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)** · **[▶ Смотреть демо · 1 минута](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)**
+**[⬇ Скачать APK](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/latest/download/Twitch-TV-by-Oprawa-test.apk)** · **[▶ Смотреть демо](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)**
 
 [![Главный экран Twitch TV by Oprawa с авторскими карточками](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-cover-skuf.png)](https://github.com/oprawa228-hub/twitch-tv-by-oprawa/releases/download/v1.0.2/oprawa-102-demo.mp4)
 
